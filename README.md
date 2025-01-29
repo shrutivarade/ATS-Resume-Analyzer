@@ -11,6 +11,10 @@ The project uses **Generative AI** through OpenAI's GPT-4 model to compare resum
 
 This marks my **first venture into the world of Generative AI**, and it is the starting point of my learning journey in this exciting field.
 
+## Screenshot of the Webpage
+![Screenshot of the ATS Resume Analyzer webpage](images/input.png)
+![Screenshot of the ATS Resume Analyzer webpage](images/output.png)
+
 ## Technologies Used
 - **Node.js & Express.js** for the backend
 - **Alpine.js** for frontend interactivity
