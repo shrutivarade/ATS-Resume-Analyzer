@@ -32,11 +32,15 @@ This marks my **first venture into the world of Generative AI**, and it is the s
 
 ## Setup and Run
 
-### 1. **Install Dependencies**:
-   First, install the necessary dependencies for the backend:
-   ```bash
-   npm install
+### 1. Install Dependencies:
 
-   Run server for backend:
-   ```bash
-   npm server.js```
+First, install the necessary dependencies for the backend:
+
+```sh
+npm install
+```
+
+Run server for backend:
+
+```sh
+npm server.js
