@@ -31,13 +31,10 @@ This marks my **first venture into the world of Generative AI**, and it is the s
 - **Frontend Setup**: The **index.html** file is the front-end interface for the user to upload resumes and enter job descriptions. To run this file, you need to explicitly start a live server (e.g., using VS Code Live Server or another local server tool) to serve the HTML page in the browser.
 
 ## Setup and Run
-
-### 1. **Install Dependencies**:
    First, install the necessary dependencies for the backend:
    ```bash
    npm install
 
-### 2. **Run Server**:
    Run server for backend:
    ```bash
-   npm server.js
+   npm server.js```
