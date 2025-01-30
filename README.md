@@ -36,3 +36,8 @@ This marks my **first venture into the world of Generative AI**, and it is the s
    First, install the necessary dependencies for the backend:
    ```bash
    npm install
+
+### 2. **Run Server**:
+   Run server for backend:
+   ```bash
+   npm server.js
