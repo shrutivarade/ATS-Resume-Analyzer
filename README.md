@@ -32,8 +32,6 @@ This marks my **first venture into the world of Generative AI**, and it is the s
 
 ## Setup and Run
 
-### 1. Install Dependencies:
-
 First, install the necessary dependencies for the backend:
 
 ```sh
